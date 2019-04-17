@@ -1,14 +1,14 @@
 ﻿language.code=es-ES
 language=Español
-//[Reference] 'A bigger store is always gonna be better for us here.'
+//[Reference] 'Tener una tienda más grande siempre será mejor para nosotros.'
 staxel.village.character.dialogue.AlizaLiked.line:10000100=Una tienda más grande siempre será mejor para nosotros.
-//[Reference] 'It helps me help you, an' all that.'
+//[Reference] 'Me ayuda a ayudarte, y todo eso.'
 staxel.village.character.dialogue.AlizaLiked.line:10000200=Me ayuda a ayudarte y eso.
-//[Reference] 'Ya can build more, an' I can sell ya more to build even more!'
+//[Reference] '¡Ya puedes construir más, y puedo venderte más para que construyas aún más!'
 staxel.village.character.dialogue.AlizaLiked.line:10000300=¡Puedes construir más y yo venderte más cosas para que construyas más aún!
-//[Reference] 'Sometimes my competitive nature really gets me goin'...'
+//[Reference] 'A veces ser competitivo es lo que hace que me ponga en marcha...'
 staxel.village.character.dialogue.AlizaLiked.line:10000400=Mi naturaleza competitiva me motiva mucho a veces...
-//[Reference] 'Kinda hard to stop when I really get into it...'
+//[Reference] 'Es díficil parar cuando ya estás metido en el asunto...'
 staxel.village.character.dialogue.AlizaLiked.line:10000500=Me cuesta parar cuando me meto tanto en algo...
-//[Reference] 'I'll crush all of 'em! Every rival we have!'
+//[Reference] '¡Los aplastaré a todos! ¡A cada uno de nuestros rivales!'
 staxel.village.character.dialogue.AlizaLiked.line:10000600=¡Los machacaré a todos! ¡A todos nuestros rivales!
